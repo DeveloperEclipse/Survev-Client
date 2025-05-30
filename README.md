@@ -4,7 +4,7 @@
 
 ## Client Features:
 - ❌ | `Client Friends`               |  Add other players in the same server as a friend to invite / join teams easily
-- ✅ | `Voice Chat`                   |  Proximity voice chat with others that use the client
+- ✅ | `Voice Chat`                   |  Public proximity voice chat with others that use the client
 - ✅ | `Ceiling Opacity`              |  See through ceilings
 - ❌ | `Smoke Opacity`                |  See through smoke grenades
 - ❌ | `Weapon Borders`               |  Colored slot borders based on the weapon ammo type
