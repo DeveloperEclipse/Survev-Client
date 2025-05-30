@@ -3,9 +3,12 @@
 ![Page UI Preview](https://raw.githubusercontent.com/GenericExotic/Survev-Client/refs/heads/main/preview/preview_1.png)
 
 ## Client Features:
+- ❌ | `Client Friends`               |  Add other players in the same server as a friend to invite / join teams easily
+- ✅ | `Voice Chat`                   |  Proximity voice chat with others that use the client
 - ✅ | `Ceiling Opacity`              |  See through ceilings
 - ❌ | `Smoke Opacity`                |  See through smoke grenades
-- ❌ | `Visible Names`                |  Shows **player names** regardless of team
+- ❌ | `Weapon Borders`               |  Colored slot borders based on the weapon ammo type
+- ✅ | `Visible Names`                |  Shows **player names** regardless of team
 - ✅ | `ESP`:                         |  **Green = Trusted** \ **Red = Enemy** \ **Cyan = Team** \ **Gray = Dead** \ **Dark Shade = Different Layer**
     - ✅ | `Tracer`                   |  Draws a **line segment between two players**
     - ✅ | `Prediction Indicator`     |  A **visualized point** of **aimbot bullet prediction**
@@ -14,7 +17,7 @@
 - ✅ | `Aimbot`                       |  Calculates an angle to **automatically aim** based on **player velocities**, **bullet speed**, and **distance**
     - ✅ | `Trust List`               |  **Press P** with your mouse near an enemy to **trust them**. Trusted users will **not be considered targets for aimbot**
 - ❌ | `UI Addons`                    |  Enhanced **interface elements** in game
-    - ❌ | `Health & Adrenaline`      |  Shows **HP and boost bar** inside health.
+    - ❌ | `Health & Adrenaline`      |  Shows **HP and boost bar** inside health
     - ❌ | `Weapon Border`            |  Fancy **outlines** around your **weapon inventory**
 - ❌ | `Map Locations`                |  Colored **loot areas** marked on the map
     - ❌ | `Mosin Tree`               |  **White circle** for mosin spawn
