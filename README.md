@@ -1,6 +1,5 @@
 # Exotic Survev Client
 ![Client UI Preview](https://raw.githubusercontent.com/GenericExotic/Survev-Client/refs/heads/main/preview/preview_2.png)
-![Page UI Preview](https://raw.githubusercontent.com/GenericExotic/Survev-Client/refs/heads/main/preview/preview_1.png)
 
 ## Client Features:
 - ❌ | `Client Friends`               |  Add other players in the same server as a friend to invite / join teams easily
