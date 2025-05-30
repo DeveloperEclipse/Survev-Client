@@ -2,8 +2,8 @@
 ![Client UI Preview](https://raw.githubusercontent.com/GenericExotic/Survev-Client/refs/heads/main/preview/preview_2.png)
 
 ## Client Features:
-- ❌ | `Client Friends`               |  Add other players in the same server as a friend to invite / join teams easily
 - ✅ | `Voice Chat`                   |  Public proximity voice chat with others that use the client
+- ❌ | `Client Friends`               |  Add other players in the same server as a friend to invite / join teams easily
 - ✅ | `Ceiling Opacity`              |  See through ceilings
 - ❌ | `Smoke Opacity`                |  See through smoke grenades
 - ❌ | `Weapon Borders`               |  Colored slot borders based on the weapon ammo type
