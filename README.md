@@ -34,4 +34,4 @@ Recently a new layer of obfuscation changes getting health from 'data.activePlay
 Meaning I had to write a program to patch the latest update, with an auto generated readable get/set wrapper that returns obfuscated keys turning 'data.aCE.xHtCh' back to 'data.activePlayer.health'.
 
 ## Release?
-The community who brought back the original game pre-kongregate has my respect; so the public client will be stripped of any plugins containing unfair advantages if it's released.
+Cheats will probably be released, not sure yet.
