@@ -1,5 +1,5 @@
 # Exotic Survev Client
-![Client UI Preview](https://raw.githubusercontent.com/GenericExotic/Survev-Client/refs/heads/main/preview/preview_2.png)
+![Client UI Preview](https://raw.githubusercontent.com/DeveloperEclipse/Survev-Client/refs/heads/main/preview/preview_2.png)
 
 ## Client Features:
 - ✅ | `Voice Chat`                   |  Public proximity voice chat with others that use the client
