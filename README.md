@@ -3,7 +3,7 @@
 
 
 ## Installation Guide:
-[https://www.youtube.com/watch?v=tgfgi_XtllQ](https://www.youtube.com/watch?v=tgfgi_XtllQ)
+[https://www.youtube.com/watch?v=tgfgi_XtllQ](https://www.youtube.com/watch?v=tgfgi_XtllQ)<br>
 Soon, I'll release a website with a tutorial & automatic builder to return the client file for every update- currently I manually add it here...
 
 ## Client Features:
