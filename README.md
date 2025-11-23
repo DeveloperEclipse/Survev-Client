@@ -1,4 +1,4 @@
-# Exotic Survev Client
+# Survev Hacked Client
 ![Client UI Preview](https://raw.githubusercontent.com/DeveloperEclipse/Survev-Client/refs/heads/main/preview/preview_2.png)
 
 
