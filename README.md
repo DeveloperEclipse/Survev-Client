@@ -2,8 +2,9 @@
 ![Client UI Preview](https://raw.githubusercontent.com/DeveloperEclipse/Survev-Client/refs/heads/main/preview/preview_2.png)
 
 
-# Installation Guide:
+## Installation Guide:
 [https://www.youtube.com/watch?v=tgfgi_XtllQ](https://www.youtube.com/watch?v=tgfgi_XtllQ)
+Soon, I'll release a website with a tutorial & automatic builder to return the client file for every update- currently I manually add it here...
 
 ## Client Features:
 - ✅ | `Voice Chat`                   |  Public proximity voice chat with others that use the client
@@ -36,6 +37,3 @@
 ## Autmatic updates:
 Recently a new layer of obfuscation changes getting health from 'data.activePlayer.health' to 'data.aCE.xHtCh' (obfuscated keys change every update)
 Meaning I had to write a program to patch the latest update, with an auto generated readable get/set wrapper that returns obfuscated keys turning 'data.aCE.xHtCh' back to 'data.activePlayer.health'.
-
-## Release?
-Cheats will probably be released, not sure yet.
