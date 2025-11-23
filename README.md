@@ -1,6 +1,10 @@
 # Exotic Survev Client
 ![Client UI Preview](https://raw.githubusercontent.com/DeveloperEclipse/Survev-Client/refs/heads/main/preview/preview_2.png)
 
+
+# Installation Guide:
+[https://www.youtube.com/watch?v=tgfgi_XtllQ](https://www.youtube.com/watch?v=tgfgi_XtllQ)
+
 ## Client Features:
 - ✅ | `Voice Chat`                   |  Public proximity voice chat with others that use the client
 - ❌ | `Client Friends`               |  Add other players in the same server as a friend to invite / join teams easily
