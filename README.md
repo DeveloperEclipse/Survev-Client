@@ -3,8 +3,8 @@
 
 
 ## Installation Guide:
-[https://www.youtube.com/watch?v=tgfgi_XtllQ](https://www.youtube.com/watch?v=tgfgi_XtllQ)<br>
-Soon, I'll release a website with a tutorial & automatic builder to return the client file for every update- currently I manually add it here...
+- Website (Tutorial + Automatic Update Builder): [https://eclipsestuff.replit.app](https://eclipsestuff.replit.app)<br>
+- Video Tutorial (slightly outdated, still works): [https://www.youtube.com/watch?v=tgfgi_XtllQ](https://www.youtube.com/watch?v=tgfgi_XtllQ)<br>
 
 ## Client Features:
 - ✅ | `Voice Chat`                   |  Public proximity voice chat with others that use the client
