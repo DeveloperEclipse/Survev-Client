@@ -3,7 +3,7 @@
 
 
 ## Installation Guide:
-- Website (Tutorial + Automatic Update Builder): [https://eclipsestuff.replit.app](https://eclipsestuff.replit.app)<br>
+- Website (Automatic Update Builder): [https://survev.replit.app/](https://survev.replit.app/)<br>
 - Video Tutorial (slightly outdated, still works): [https://www.youtube.com/watch?v=tgfgi_XtllQ](https://www.youtube.com/watch?v=tgfgi_XtllQ)<br>
 
 ## Client Features:
