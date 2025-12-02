@@ -4,7 +4,7 @@
 
 ## Installation Guide:
 - Website (Automatic Update Builder): [https://survev.replit.app/](https://survev.replit.app/)<br>
-- Video Tutorial (slightly outdated, still works): [https://www.youtube.com/watch?v=tgfgi_XtllQ](https://www.youtube.com/watch?v=tgfgi_XtllQ)<br>
+- Video Tutorial: [https://www.youtube.com/watch?v=7LcwsijZ8I0&t=9s](https://www.youtube.com/watch?v=7LcwsijZ8I0)
 
 ## Client Features:
 - ✅ | `Voice Chat`                   |  Public proximity voice chat with others that use the client
