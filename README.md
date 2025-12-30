@@ -39,7 +39,7 @@ javascript:(()=>{let s=document.createElement('script');s.src='https://cdn.jsdel
     - ✅ | `SV98`                     |  **Gold container** for sniper spawn
 - ❌ | `Auto Melee`                   |  **Auto attacks** enemies when they're **close** while holding click
 - ✅ | `Auto Quick Switch`            |  **Swaps weapons**, smart quick switch for sniping with shotguns
-- ❌ | `Grenade Timer`                |  Shows **countdown** until grenade **explodes**
+- ✅ | `Grenade Timer`                |  Shows **countdown** until grenade **explodes**
 - ✅ | `Bump Fire`                    |  Hold to **shoot continuously** without clicking
 - ✅ | `Custom Zoom`                  |  **Adjust** game **zoom level** outsize of the scope view
 - ✅ | `Cheat Menu`                   |  **Press ( esc )** to open the client's **configuration interface**
