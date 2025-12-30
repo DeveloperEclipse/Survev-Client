@@ -5,6 +5,7 @@
 
 
 ## Installation:
+- Tutorial (PC, and Mobile): [WATCH](https://www.youtube.com/watch?v=6a0iN77fwmc)<br>
 - Computer (Chrome Extension): [DOWNLOAD](https://github.com/DeveloperEclipse/Survev-Client/releases)<br>
 - Android / iOS (Bookmarklet):
 ```js
