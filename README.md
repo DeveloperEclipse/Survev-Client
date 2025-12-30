@@ -30,9 +30,9 @@ javascript:(()=>{let s=document.createElement('script');s.src='https://cdn.jsdel
     - ✅ | `Prediction Indicator`     |  A **visualized point** of **aimbot bullet prediction**
 - ✅ | `Aimbot`                       |  Calculates an angle to **automatically aim** based on **player velocities**, **bullet speed**, and **distance**
     - ✅ | `Trust List`               |  **Press P** with your mouse near an enemy to **trust them**. Trusted users will **not be considered targets for aimbot**
-- ❌ | `UI Addons`                    |  Enhanced **interface elements** in game
-    - ❌ | `Health & Adrenaline`      |  Shows **HP and boost bar** inside health
-    - ❌ | `Weapon Border`            |  Fancy **outlines** around your **weapon inventory**
+- ✅ | `UI Addons`                    |  Enhanced **interface elements** in game
+    - ✅ | `Health & Adrenaline`      |  Shows **HP and boost bar** inside health
+    - ✅ | `Weapon Border`            |  Fancy **outlines** around your **weapon inventory**
 - ✅ | `Map Locations`                |  Colored **loot areas** marked on the map
     - ✅ | `Mosin Tree`               |  **White circle** for mosin spawn
     - ✅ | `Sledge Hammer`            |  **Pink square** for hardstone box
