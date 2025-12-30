@@ -43,7 +43,3 @@ javascript:(()=>{let s=document.createElement('script');s.src='https://cdn.jsdel
 - ✅ | `Bump Fire`                    |  Hold to **shoot continuously** without clicking
 - ✅ | `Custom Zoom`                  |  **Adjust** game **zoom level** outsize of the scope view
 - ✅ | `Cheat Menu`                   |  **Press ( esc )** to open the client's **configuration interface**
-  
-## Autmatic updates:
-Recently a new layer of obfuscation changes getting health from 'data.activePlayer.health' to 'data.aCE.xHtCh' (obfuscated keys change every update)
-Meaning I had to write a program to patch the latest update, with an auto generated readable get/set wrapper that returns obfuscated keys turning 'data.aCE.xHtCh' back to 'data.activePlayer.health'.
