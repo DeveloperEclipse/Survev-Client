@@ -25,11 +25,13 @@ javascript:(()=>{let s=document.createElement('script');s.src='https://cdn.jsdel
 - ✅ | `Smoke Opacity`                |  See through smoke grenades
 - ✅ | `Weapon Borders`               |  **Colorized borders** based on the weapon ammo type
 - ✅ | `Visible Names`                |  Shows colorized **player names** regardless of team
+- ❌ | `Auto Pan`                     |  **Automatically blocks bullets** when wearing a pan
 - ✅ | `ESP`:                         |  **Green = Trusted** \ **Red = Enemy** \ **Cyan = Team** \ **Gray = Dead** \ **Dark Shade = Different Layer**
     - ✅ | `Tracer`                   |  Draws a **line segment between two players**
     - ✅ | `Prediction Indicator`     |  A **visualized point** of **aimbot bullet prediction**
 - ✅ | `Aimbot`                       |  Calculates an angle to **automatically aim** based on **player velocities**, **bullet speed**, and **distance**
     - ✅ | `Trust List`               |  **Press P** with your mouse near an enemy to **trust them**. Trusted users will **not be considered targets for aimbot**
+- ❌ | `Spinbot`                      |  **Automatically** spins at customizable speeds.
 - ✅ | `UI Addons`                    |  Enhanced **interface elements** in game
     - ✅ | `Health & Adrenaline`      |  Shows **HP and boost bar** inside health
     - ✅ | `Weapon Border`            |  Fancy **outlines** around your **weapon inventory**
