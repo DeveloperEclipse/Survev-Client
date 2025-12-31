@@ -22,7 +22,7 @@ javascript:(()=>{let s=document.createElement('script');s.src='https://cdn.jsdel
 - ✅ | `Ad Blocker`                   |  Includes a built-in **ad blocker**
 - ✅ | `Ceiling Opacity`              |  See through ceilings
 - ✅ | `Foliage Opacity`              |  See through trees, bushes, ect
-- ❌ | `Smoke Opacity`                |  See through smoke grenades
+- ✅ | `Smoke Opacity`                |  See through smoke grenades
 - ✅ | `Weapon Borders`               |  **Colorized borders** based on the weapon ammo type
 - ✅ | `Visible Names`                |  Shows colorized **player names** regardless of team
 - ✅ | `ESP`:                         |  **Green = Trusted** \ **Red = Enemy** \ **Cyan = Team** \ **Gray = Dead** \ **Dark Shade = Different Layer**
