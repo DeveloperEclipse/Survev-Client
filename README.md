@@ -1,7 +1,6 @@
 # Survev Hacked Client
 ![Client UI Preview](https://raw.githubusercontent.com/DeveloperEclipse/Survev-Client/refs/heads/main/preview/new_1.png)
 ![Client UI Preview](https://raw.githubusercontent.com/DeveloperEclipse/Survev-Client/refs/heads/main/preview/new_2.png)
-![Client UI Preview](https://raw.githubusercontent.com/DeveloperEclipse/Survev-Client/refs/heads/main/preview/new_3.png)
 
 
 ## Installation:
@@ -15,6 +14,8 @@ javascript:(()=>{let s=document.createElement('script');s.src='https://cdn.jsdel
 ## Client Features:
 - ✅ | `Automatic Updates`            |  **Automatically updates** the client to work with the latest version.
 - ✅ | `Automatic Fire`               |  **Automatically fires** at enemies with wall checks.
+- ✅ | `Automatic Healing`            |  **Automatically uses supplies** when health or adrenaline is low.
+- ✅ | `Automatic Reload`             |  **Automatically reloads** all weapons when not in combat.
 - ✅ | `Bullet Reflection`            |  Visualize **bullet reflection** trajectory
 - ✅ | `Weapon Flashlights`           |  Visualize the **recoil** as a weapon cone for each weapon
 - ✅ | `Explosion Radius`             |  Visualize the **explosion radius** of **projectiles** or **map objects**
