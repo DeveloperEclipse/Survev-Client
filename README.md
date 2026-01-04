@@ -8,7 +8,7 @@
 - Computer (Chrome Extension): [DOWNLOAD](https://github.com/DeveloperEclipse/Survev-Client/releases)<br>
 - Android / iOS (Bookmarklet):
 ```js
-javascript:(()=>{let s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/DeveloperEclipse/Survev-Client@5.w/client.js';document.body.appendChild(s);%7D)();
+javascript:(()=>{let s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/DeveloperEclipse/Survev-Client@5.2/client.js';document.body.appendChild(s);%7D)();
 ```
 
 ## Client Features:
