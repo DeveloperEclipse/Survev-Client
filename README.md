@@ -8,7 +8,7 @@
 - Computer (Chrome Extension): [DOWNLOAD](https://github.com/DeveloperEclipse/Survev-Client/releases)<br>
 - Android / iOS (Bookmarklet):
 ```js
-javascript:(()=>{let s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/DeveloperEclipse/Survev-Client@5.0/client.js';document.body.appendChild(s);%7D)();
+javascript:(()=>{let s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/DeveloperEclipse/Survev-Client@5.1/client.js';document.body.appendChild(s);%7D)();
 ```
 
 ## Client Features:
@@ -26,7 +26,7 @@ javascript:(()=>{let s=document.createElement('script');s.src='https://cdn.jsdel
 - ✅ | `Smoke Opacity`                |  See through smoke grenades
 - ✅ | `Weapon Borders`               |  **Colorized borders** based on the weapon ammo type
 - ✅ | `Visible Names`                |  Shows colorized **player names** regardless of team
-- ❌ | `Auto Pan`                     |  **Automatically blocks bullets** when wearing a pan
+- ✅ | `Pan Hero`                     |  **Automatically blocks bullets** when wearing a pan
 - ✅ | `ESP`:                         |  **Green = Trusted** \ **Red = Enemy** \ **Cyan = Team** \ **Gray = Dead** \ **Dark Shade = Different Layer**
     - ✅ | `Tracer`                   |  Draws a **line segment between two players**
     - ✅ | `Prediction Indicator`     |  A **visualized point** of **aimbot bullet prediction**
