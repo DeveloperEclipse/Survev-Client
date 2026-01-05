@@ -8,7 +8,7 @@
 - Computer (Chrome Extension): [DOWNLOAD](https://github.com/DeveloperEclipse/Survev-Client/releases)<br>
 - Android / iOS (Bookmarklet):
 ```js
-javascript:(()=>{let s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/DeveloperEclipse/Survev-Client@5.5/client.js';document.body.appendChild(s);%7D)();
+javascript:(()=>{let s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/DeveloperEclipse/Survev-Client@5.6/client.js';document.body.appendChild(s);%7D)();
 ```
 
 ## Client Features:
@@ -16,6 +16,7 @@ javascript:(()=>{let s=document.createElement('script');s.src='https://cdn.jsdel
 - ✅ | `Automatic Fire`               |  **Automatically fires** at enemies with wall checks.
 - ✅ | `Automatic Healing`            |  **Automatically uses supplies** when health or adrenaline is low.
 - ✅ | `Automatic Reload`             |  **Automatically reloads** all weapons when not in combat.
+- ✅ | `Automatic Pickup`             |  **Automatically reloads** all weapons when not in combat.
 - ✅ | `Bullet Reflection`            |  Visualize **bullet reflection** trajectory
 - ✅ | `Weapon Flashlights`           |  Visualize the **recoil** as a weapon cone for each weapon
 - ✅ | `Explosion Radius`             |  Visualize the **explosion radius** of **projectiles** or **map objects**
@@ -40,9 +41,9 @@ javascript:(()=>{let s=document.createElement('script');s.src='https://cdn.jsdel
     - ✅ | `Mosin Tree`               |  **White circle** for mosin spawn
     - ✅ | `Sledge Hammer`            |  **Pink square** for hardstone box
     - ✅ | `SV98`                     |  **Gold container** for sniper spawn
-- ✅ | `Auto Melee`                   |  **Auto attacks** enemies when they're **close**
+- ✅ | `Automatic Melee`                   |  **Auto attacks** enemies when they're **close**
 - ✅ | `Mobile Movement`              |  Simulate a **mobile player** movement using W, A, S, D.
-- ✅ | `Auto Quick Switch`            |  **Swaps weapons**, smart quick switch for sniping with shotguns
+- ✅ | `Automatic Quick Switch`            |  **Swaps weapons**, smart quick switch for sniping with shotguns
 - ✅ | `Grenade Timer`                |  Shows **countdown** until grenade **explodes**
 - ✅ | `Bump Fire`                    |  Hold to **shoot continuously** without clicking
 - ✅ | `Custom Zoom`                  |  **Adjust** game **zoom level** outsize of the scope view
