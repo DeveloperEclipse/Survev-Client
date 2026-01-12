@@ -1,6 +1,8 @@
 # Survev Hacked Client
 ![Client UI Preview](https://raw.githubusercontent.com/DeveloperEclipse/Survev-Client/refs/heads/main/preview/1.png)
 ![Client UI Preview](https://raw.githubusercontent.com/DeveloperEclipse/Survev-Client/refs/heads/main/preview/2.png)
+![Client UI Preview](https://raw.githubusercontent.com/DeveloperEclipse/Survev-Client/refs/heads/main/preview/3.png)
+![Client UI Preview](https://raw.githubusercontent.com/DeveloperEclipse/Survev-Client/refs/heads/main/preview/4.png)
 
 
 ## Installation:
@@ -8,10 +10,11 @@
 - Computer (Chrome Extension): [DOWNLOAD](https://github.com/DeveloperEclipse/Survev-Client/releases)<br>
 - Android / iOS (Bookmarklet):
 ```js
-javascript:(()=>{let s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/DeveloperEclipse/Survev-Client@5.7/client.js';document.body.appendChild(s);%7D)();
+javascript:(()=>{let s=document.createElement('script');s.src='https://cdn.jsdelivr.net/gh/DeveloperEclipse/Survev-Client@5.8/client.js';document.body.appendChild(s);%7D)();
 ```
 
 ## Client Features:
+- ✅ | `Server Data Exploit`          |  View **ALL** player positions, and health data.
 - ✅ | `Automatic Updates`            |  **Automatically updates** the client to work with the latest version.
 - ✅ | `Automatic Fire`               |  **Automatically fires** at enemies with wall checks.
 - ✅ | `Automatic Healing`            |  **Automatically uses supplies** when health or adrenaline is low.
