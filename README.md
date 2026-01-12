@@ -2,8 +2,6 @@
 ![Client UI Preview](https://raw.githubusercontent.com/DeveloperEclipse/Survev-Client/refs/heads/main/preview/1.png)
 ![Client UI Preview](https://raw.githubusercontent.com/DeveloperEclipse/Survev-Client/refs/heads/main/preview/2.png)
 ![Client UI Preview](https://raw.githubusercontent.com/DeveloperEclipse/Survev-Client/refs/heads/main/preview/3.png)
-![Client UI Preview](https://raw.githubusercontent.com/DeveloperEclipse/Survev-Client/refs/heads/main/preview/4.png)
-
 
 ## Installation:
 - Tutorial (PC, and Mobile): [WATCH](https://www.youtube.com/watch?v=6a0iN77fwmc)<br>
