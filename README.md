@@ -12,7 +12,7 @@ javascript:(()=>{let s=document.createElement('script');s.src='https://exotic.py
 ```
 
 ## Client Features:
-- ✅ | `Server Data Exploit`          |  View **ALL** player positions, and health data.
+- ⚠️ | `Server Data` (patched)        |  View **ALL** player positions, and health data.
 - ✅ | `Automatic Updates`            |  **Automatically updates** the client to work with the latest version.
 - ✅ | `Automatic Fire`               |  **Automatically fires** at enemies with wall checks.
 - ✅ | `Automatic Healing`            |  **Automatically uses supplies** when health or adrenaline is low.
